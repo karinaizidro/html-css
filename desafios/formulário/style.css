@@ -1,0 +1,33 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #f1d8c9, #f2c3a7);
+}
+
+h1 {
+    color: #523206;
+    text-align: center;
+    text-shadow: 1px 1px 2px #bd6e008f;
+}
+
+
+p {
+    text-align: center;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif, size 10px;
+
+}
+
+button {
+    color: #61594e;
+    text-align: center;
+    text-shadow: 1px 1px 2px #bd6e008f;
+}
+
+.escolaridade {
+    color: black;
+    font-size: 15px;
+    
+}
