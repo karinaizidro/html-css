@@ -14,3 +14,5 @@ git add . => adiciona todas as alterações as alterações preparadas.
 git commit -m "nome que você deseja para o comit" => cria um pacote de alterações para mandar para a sua branch. As alterações que vão para o commit são as alterações que estao na sessão de preparadas.
 
 git push origin nome-da-branch => sobe as alterações commitadas para o repositorio na branch escolhida.
+
+Estou aprendendo a gerenciar meus repositórios.
