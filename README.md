@@ -16,3 +16,5 @@ git commit -m "nome que você deseja para o comit" => cria um pacote de alteraç
 git push origin nome-da-branch => sobe as alterações commitadas para o repositorio na branch escolhida.
 
 Estou aprendendo a gerenciar meus repositórios.
+
+<a href="https://karinaizidro.github.io/html-css/exercicios/ex001/index.html"> Executar o exercício 001
