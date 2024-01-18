@@ -17,4 +17,4 @@ git push origin nome-da-branch => sobe as alterações commitadas para o reposit
 
 Estou aprendendo a gerenciar meus repositórios.
 
-<a href="https://karinaizidro.github.io/html-css/exercicios/ex001/index.html"> Executar o exercício 001
+<a href="https://karinaizidro.github.io/html-css/exercicios/ex001/index.html"> Executar o exercício 001</a>
